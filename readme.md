@@ -1,4 +1,7 @@
+#8A8K-SteeringEngine
+
 **22.3.19**
-已完成舵机旋转扫描
+Steering gear rotation scan completed
+
 **22.3.24**
-用于传输，把数据处理删除，直接传输ascii
+Used for transmission, remove data processing, direct transmission ASCII
